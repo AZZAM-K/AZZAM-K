@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Azzam Al Kahil
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on best tecknology companies
+- 📫 How to reach me [azzam.alkahil@icloud.com] OR [tsm.azzamkahil@gmail.com]
