@@ -13,7 +13,7 @@ Some of my recent projects include:
 
 1. **React Calculator**: A simple React app with a theme switcher feature.
 2. **Todo List**: A simple todo list.
-3. **Countries Info**: A react app that give the informations of all the countries using third-Party API.
+3. **Countries Explorer**: A react app that give the informations of all the countries using third-Party API.
 
 Feel free to explore my GitHub repositories to see the projects I've worked on!
 
