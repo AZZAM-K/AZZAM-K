@@ -1,6 +1,6 @@
-# Azzam - Junior Fullstack Developer
+# Azzam - Junior Full-stack Developer
 
-Hello! I’m Azzam, a junior fullstack developer focused on building web applications with a strong foundation in both front-end and back-end technologies.
+Hello! I’m Azzam, a junior full-stack developer focused on building web applications with a strong foundation in both front-end and back-end technologies.
 
 ## What I Do:
 - **Frontend**: Developing interactive UIs using React.js, HTML5, and TailwindCSS.
