@@ -20,6 +20,6 @@ Some of my recent projects include:
 Feel free to explore my GitHub repositories to see the projects I've worked on!
 
 ## How to Reach Me:
-- LinkedIn: [http://linkedin.com/in/azzam-al-kahil-34787632b]
+- LinkedIn: [http://linkedin.com/in/azzam-al-kahil]
 - Email: [azzam.alkahil@icloud.com]
 - Phone Number: [+961 76338952]
