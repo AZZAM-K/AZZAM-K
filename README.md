@@ -1,25 +1,22 @@
-# Azzam - Junior Full-stack Developer
+Azzam – Junior Full-stack Developer
+Hello! I’m Azzam, a junior full-stack developer passionate about building modern, responsive, and user-friendly web applications. I specialize in both front-end and back-end development using the MERN stack.
 
-Hello! I’m Azzam, a junior full-stack developer focused on building web applications with a strong foundation in both front-end and back-end technologies.
+💻 What I Do
+Frontend: Creating dynamic interfaces with React.js, HTML5, CSS3, and TailwindCSS
 
-## What I Do:
-- **Frontend**: Developing interactive UIs using React.js, HTML5, and TailwindCSS.
-- **Backend**: Building RESTful APIs and working with Node.js, Express, and MongoDB.
-- **Authentication**: Implementing secure authentication using JWT.
-- **Version Control**: Managing code repositories using Git and GitHub.
+Backend: Developing scalable APIs with Node.js, Express, and MongoDB
 
-## Projects
-Some of my recent projects include:
+Tools: Git, GitHub, VS Code, Postman, and other developer essentials
 
-1. **React Calculator**: A simple React app with a theme switcher feature.
-2. **Todo List**: A simple todo list.
-3. **World Explorer**: A react app that give the informations of all the countries using third-Party API.
-4. **Restaurant**: Simple restaurant site.
-5. **Apple Store**: MERN Stack apple store - [https://apple-store-azzam-k.vercel.app]
+🚀 Portfolio
+Check out my personal portfolio site:
+🔗 azzam-k-portfolio.vercel.app
 
-Feel free to explore my GitHub repositories to see the projects I've worked on!
+It features my projects, skills, and more details about what I do.
 
-## How to Reach Me:
-- LinkedIn: [http://linkedin.com/in/azzam-al-kahil]
-- Email: [azzam.alkahil@icloud.com]
-- Phone Number: [+961 76338952]
+📬 How to Reach Me
+🔗 LinkedIn :
+
+📧 Email: azzam.alkahil@icloud.com | tsm.azzamkahil@gmail.com
+
+📞 Phone: +961 76 338 952
