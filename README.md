@@ -15,5 +15,5 @@ It features my projects, skills, and more details about what I do.
 
 ## 📬 How to Reach Me
 - 🔗 [LinkedIn](http://linkedin.com/in/azzam-al-kahil)  
-- 📧 Email: [azzam.alkahil@icloud.com](mailto:azzam.alkahil@icloud.com) | [tsm.azzamkahil@gmail.com](mailto:tsm.azzamkahil@gmail.com)  
+- 📧 Email: [azzam.alkahil@icloud.com](mailto:azzam.alkahil@icloud.com)
 - 📞 Phone: [+961 76 338 952](tel:+96176338952)
