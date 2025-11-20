@@ -1,19 +1,66 @@
-# Azzam – Junior Full-stack Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4F46E5&center=true&vCenter=true&lines=Hello+I'm+Azzam+Al+Kahil;Full+Stack+Web+Developer" />
+</div>
 
-Hello! I’m Azzam, a junior full-stack developer passionate about building modern, responsive, and user-friendly web applications. I specialize in both front-end and back-end development using the MERN stack.
+<h1 align="center">🌐 Azzam Al Kahil</h1>
+<h3 align="center">Full-Stack Web Developer</h3>
 
-## 💻 What I Do
-- **Frontend**: Creating dynamic interfaces with React.js, HTML5, CSS3, and TailwindCSS  
-- **Backend**: Developing scalable APIs with Node.js, Express, and MongoDB  
-- **Tools**: Git, GitHub, VS Code, Postman, and other developer essentials  
+<p align="center">
+  <a href="https://azzamalkahil.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:azzam.kahil.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/azzam-al-kahil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 Portfolio  
-Check out my personal portfolio site:  
-🔗 [https://azzam-k-portfolio.vercel.app](https://azzam-k-portfolio.vercel.app)
+---
 
-It features my projects, skills, and more details about what I do.
+## 🚀 About Me  
+I'm **Azzam**, a passionate **Full-Stack Web Developer** who builds modern, scalable, and UX-focused applications.  
+I specialize in **React, Next.js, Tailwind, Node.js, Express**, and databases like **MongoDB & PostgreSQL**.
 
-## 📬 How to Reach Me
-- 🔗 [LinkedIn](http://linkedin.com/in/azzam-al-kahil)  
-- 📧 Email: [azzam.kahil.dev@gmail.com](mailto:azzam.kahil.dev@gmail.com)
-- 📞 Phone: [+961 76 338 952](tel:+96176338952)
+I aim to deliver clean, efficient, and high-quality code — while constantly learning and leveling up.
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### **Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🌐 Featured Links  
+
+📌 **Portfolio:**  
+➡️ https://azzamalkahil.vercel.app
+
+📌 **LinkedIn:**  
+➡️ https://linkedin.com/in/azzam-al-kahil
+
+📌 **Email:**  
+➡️ azzam.kahil.dev@gmail.com
+
+📌 **Phone:**  
+➡️ +961 76 338 952
