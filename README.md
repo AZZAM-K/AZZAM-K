@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4F46E5&center=true&vCenter=true&lines=Hello+I'm+Azzam+Al+Kahil;Full+Stack+Web+Developer" />
-</div>
-
 <h1 align="center">🌐 Azzam Al Kahil</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
