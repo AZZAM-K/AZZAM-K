@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
-  <a href="https://azzamalkahil.vercel.app" target="_blank">
+  <a href="https://azzamalkahil.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:azzam.kahil.dev@gmail.com" target="_blank">
@@ -50,7 +50,7 @@ I aim to deliver clean, efficient, and high-quality code — while constantly le
 ## 🌐 Featured Links  
 
 📌 **Portfolio:**  
-➡️ https://azzamalkahil.vercel.app
+➡️ [https://azzamalkahil.dev](https://azzamalkahil.dev)
 
 📌 **LinkedIn:**  
 ➡️ https://linkedin.com/in/azzam-al-kahil
