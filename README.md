@@ -1,5 +1,5 @@
 <h1 align="center">🌐 Azzam Al Kahil</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://azzamalkahil.dev" target="_blank">
