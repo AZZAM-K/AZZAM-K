@@ -16,8 +16,8 @@
 ---
 
 ## 🚀 About Me  
-I'm **Azzam**, a passionate **Full-Stack Web Developer** who builds modern, scalable, and UX-focused applications.  
-I specialize in **React, Next.js, Tailwind, Node.js, Express**, and databases like **MongoDB & PostgreSQL**.
+I'm **Azzam**, a passionate **Full-Stack Developer** building modern, scalable web and mobile applications with a strong focus on user experience.  
+I specialize in **React, Next.js, React Native (Expo), Tailwind, Node.js, Express**, and databases like **MongoDB & PostgreSQL**.
 
 I aim to deliver clean, efficient, and high-quality code — while constantly learning and leveling up.
 
