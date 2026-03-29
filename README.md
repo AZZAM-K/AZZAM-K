@@ -42,7 +42,7 @@ I aim to deliver clean, efficient, and high-quality code — while constantly le
 
 ### **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,expo" />
 </p>
 
 ---
